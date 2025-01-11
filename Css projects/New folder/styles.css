@@ -16,6 +16,7 @@
     align-items: center;
     transform-style: preserve-3d;
     z-index: -1;  
+    
 }
 .header{
     position:absolute;
